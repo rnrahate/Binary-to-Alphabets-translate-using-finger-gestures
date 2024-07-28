@@ -1,6 +1,3 @@
-Here's a `README.md` file for your hand gesture recognition project, including real-world implications:
-
-```markdown
 # Hand Gesture Recognition with MediaPipe
 
 This project demonstrates real-time hand gesture recognition using OpenCV and MediaPipe. The primary goal is to detect hand gestures and translate them into corresponding letters or actions, such as forming words or deleting the last character.
