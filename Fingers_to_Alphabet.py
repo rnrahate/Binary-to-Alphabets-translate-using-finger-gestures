@@ -138,7 +138,7 @@ while cap.isOpened():
     # Break the loop on 'q' key press
     if cv2.waitKey(10) & 0xFF == ord('q'):
         break
-
+    
 # Release the capture
 cap.release()
 cv2.destroyAllWindows()
